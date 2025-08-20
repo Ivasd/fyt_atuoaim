@@ -1,1 +1,0 @@
-/home/ivasd/fyt_atuoaim/build/rm_bringup/ament_cmake_core/rm_bringupConfig.cmake

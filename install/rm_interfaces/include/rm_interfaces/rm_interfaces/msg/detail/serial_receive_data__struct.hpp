@@ -1,1 +1,0 @@
-/home/ivasd/fyt_atuoaim/build/rm_interfaces/rosidl_generator_cpp/rm_interfaces/msg/detail/serial_receive_data__struct.hpp

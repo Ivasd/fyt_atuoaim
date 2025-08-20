@@ -1,1 +1,0 @@
-/home/ivasd/fyt_atuoaim/src/rm_auto_aim/armor_solver/include/armor_solver/armor_solver_node.hpp

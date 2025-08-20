@@ -1,1 +1,0 @@
-/home/ivasd/fyt_atuoaim/src/rm_utils/include/rm_utils/logger/impl/logger_impl.hpp

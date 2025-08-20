@@ -1,1 +1,0 @@
-/home/ivasd/fyt_atuoaim/src/rm_auto_aim/armor_detector/include/armor_detector/armor_detector.hpp

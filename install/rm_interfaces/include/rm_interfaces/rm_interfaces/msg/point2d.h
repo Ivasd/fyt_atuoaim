@@ -1,1 +1,0 @@
-/home/ivasd/fyt_atuoaim/build/rm_interfaces/rosidl_generator_c/rm_interfaces/msg/point2d.h

@@ -1,1 +1,0 @@
-/home/ivasd/fyt_atuoaim/src/rm_interfaces/msg/Point2d.msg

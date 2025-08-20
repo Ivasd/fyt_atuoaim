@@ -1,1 +1,0 @@
-/home/ivasd/fyt_atuoaim/src/rm_hardware_driver/rm_camera_driver/include/rm_camera_driver/recorder.hpp
