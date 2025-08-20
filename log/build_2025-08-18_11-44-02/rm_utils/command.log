@@ -1,0 +1,4 @@
+Invoking command in '/home/ivasd/fyt_atuoaim/build/rm_utils': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/local/bin/cmake --build /home/ivasd/fyt_atuoaim/build/rm_utils -- -j32 -l32
+Invoked command in '/home/ivasd/fyt_atuoaim/build/rm_utils' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/local/bin/cmake --build /home/ivasd/fyt_atuoaim/build/rm_utils -- -j32 -l32
+Invoking command in '/home/ivasd/fyt_atuoaim/build/rm_utils': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/local/bin/cmake --install /home/ivasd/fyt_atuoaim/build/rm_utils
+Invoked command in '/home/ivasd/fyt_atuoaim/build/rm_utils' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/local/bin/cmake --install /home/ivasd/fyt_atuoaim/build/rm_utils

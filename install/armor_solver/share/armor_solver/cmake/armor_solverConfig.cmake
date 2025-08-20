@@ -1,0 +1,1 @@
+/home/ivasd/fyt_atuoaim/build/armor_solver/ament_cmake_core/armor_solverConfig.cmake

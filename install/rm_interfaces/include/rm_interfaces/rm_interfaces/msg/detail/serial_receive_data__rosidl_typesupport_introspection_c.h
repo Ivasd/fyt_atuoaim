@@ -1,0 +1,1 @@
+/home/ivasd/fyt_atuoaim/build/rm_interfaces/rosidl_typesupport_introspection_c/rm_interfaces/msg/detail/serial_receive_data__rosidl_typesupport_introspection_c.h

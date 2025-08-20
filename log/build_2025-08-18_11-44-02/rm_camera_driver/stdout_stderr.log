@@ -1,0 +1,44 @@
+[ 50%] Built target video_player_node
+[ 50%] Built target rm_camera_driver_node
+[100%] Built target rm_camera_driver
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/lib/x86_64/libFormatConversion.so
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/lib/x86_64/libMVRender.so
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/lib/x86_64/libMediaProcess.so
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/lib/x86_64/libMvCameraControl.so
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/lib/x86_64/libMvUsb3vTL.so
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/lib/rm_camera_driver/rm_camera_driver_node
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/lib/rm_camera_driver/video_player_node
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/include/hik/CameraParams.h
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/include/hik/MvCameraControl.h
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/include/hik/MvErrorDefine.h
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/include/hik/MvISPErrorDefine.h
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/include/hik/PixelType.h
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/include/rm_camera_driver/hik_camera.hpp
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/include/rm_camera_driver/recorder.hpp
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/share/rm_camera_driver/environment/library_path.sh
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/share/rm_camera_driver/environment/library_path.dsv
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/lib/librm_camera_driver.so
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/share/rm_camera_driver/config/camera_info.yaml
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/share/rm_camera_driver/config/camera_params.yaml
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/share/rm_camera_driver/launch/hik_camera.launch.py
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/share/ament_index/resource_index/package_run_dependencies/rm_camera_driver
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/share/ament_index/resource_index/parent_prefix_path/rm_camera_driver
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/share/rm_camera_driver/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/share/rm_camera_driver/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/share/rm_camera_driver/environment/path.sh
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/share/rm_camera_driver/environment/path.dsv
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/share/rm_camera_driver/local_setup.bash
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/share/rm_camera_driver/local_setup.sh
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/share/rm_camera_driver/local_setup.zsh
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/share/rm_camera_driver/local_setup.dsv
+-- Symlinking: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/share/rm_camera_driver/package.dsv
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/share/ament_index/resource_index/packages/rm_camera_driver
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/share/ament_index/resource_index/rclcpp_components/rm_camera_driver
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/share/rm_camera_driver/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/share/rm_camera_driver/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/share/rm_camera_driver/cmake/ament_cmake_export_libraries-extras.cmake
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/share/rm_camera_driver/cmake/rm_camera_driverConfig.cmake
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/share/rm_camera_driver/cmake/rm_camera_driverConfig-version.cmake
+-- Up-to-date symlink: /home/ivasd/fyt_atuoaim/install/rm_camera_driver/share/rm_camera_driver/package.xml

@@ -1,0 +1,1 @@
+/home/ivasd/fyt_atuoaim/src/rm_interfaces/msg/DebugArmors.msg

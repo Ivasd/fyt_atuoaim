@@ -1,0 +1,1 @@
+/home/ivasd/fyt_atuoaim/build/rm_interfaces/rosidl_generator_cpp/rm_interfaces/msg/detail/armors__type_support.hpp

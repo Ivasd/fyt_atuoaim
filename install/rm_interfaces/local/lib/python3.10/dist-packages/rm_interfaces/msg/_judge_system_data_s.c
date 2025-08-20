@@ -1,0 +1,1 @@
+/home/ivasd/fyt_atuoaim/build/rm_interfaces/rosidl_generator_py/rm_interfaces/msg/_judge_system_data_s.c

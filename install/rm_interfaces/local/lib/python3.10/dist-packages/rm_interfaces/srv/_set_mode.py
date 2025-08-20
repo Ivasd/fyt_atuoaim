@@ -1,0 +1,1 @@
+/home/ivasd/fyt_atuoaim/build/rm_interfaces/rosidl_generator_py/rm_interfaces/srv/_set_mode.py

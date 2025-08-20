@@ -1,0 +1,1 @@
+/home/ivasd/fyt_atuoaim/src/rm_hardware_driver/rm_camera_driver/launch/hik_camera.launch.py

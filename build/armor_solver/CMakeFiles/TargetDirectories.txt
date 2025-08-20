@@ -1,0 +1,11 @@
+/home/ivasd/fyt_atuoaim/build/armor_solver/CMakeFiles/uninstall.dir
+/home/ivasd/fyt_atuoaim/build/armor_solver/CMakeFiles/armor_solver_uninstall.dir
+/home/ivasd/fyt_atuoaim/build/armor_solver/CMakeFiles/armor_solver.dir
+/home/ivasd/fyt_atuoaim/build/armor_solver/CMakeFiles/armor_solver_node.dir
+/home/ivasd/fyt_atuoaim/build/armor_solver/CMakeFiles/test.dir
+/home/ivasd/fyt_atuoaim/build/armor_solver/CMakeFiles/edit_cache.dir
+/home/ivasd/fyt_atuoaim/build/armor_solver/CMakeFiles/rebuild_cache.dir
+/home/ivasd/fyt_atuoaim/build/armor_solver/CMakeFiles/list_install_components.dir
+/home/ivasd/fyt_atuoaim/build/armor_solver/CMakeFiles/install.dir
+/home/ivasd/fyt_atuoaim/build/armor_solver/CMakeFiles/install/local.dir
+/home/ivasd/fyt_atuoaim/build/armor_solver/CMakeFiles/install/strip.dir

@@ -1,0 +1,1 @@
+/home/ivasd/fyt_atuoaim/build/rm_interfaces/rosidl_generator_cpp/rm_interfaces/srv/set_mode.hpp
